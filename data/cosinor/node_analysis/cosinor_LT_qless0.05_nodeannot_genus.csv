@@ -1,0 +1,10 @@
+node	side1_top_genus	side2_top_genus	side1_nASVs	side2_nASVs
+n589	Planococcus	Lactococcus_A_346120	6	75
+n456	Lactococcus_A_346120	Lactococcus_A_346120	24	1
+n453	Lactococcus_A_346120	Lactococcus_A_346120	1	23
+n508	Lactococcus_A_346120	Staphylococcus	66	9
+n505	Aerococcus	Lactococcus_A_346120	1	65
+n488	Ligilactobacillus	Lactococcus_A_346120	20	45
+n486	Lactococcus_A_346120	Unclassified	40	5
+n1671	Angelakisella	Angelakisella	46	6
+n1674	Angelakisella	Angelakisella	52	1

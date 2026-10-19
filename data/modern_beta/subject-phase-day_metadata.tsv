@@ -1,0 +1,145 @@
+#SampleID	genotype	cage_number	phase	day_phase	feeding_type	exphase_dphase	gtype_exphase_dphase	dphase_ftype	gtype_dphase_ftype
+BLANK1.1A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK1.1H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK2.2H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.10H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.11H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.12H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.3H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.7H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.8H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9A_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9B_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9C_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9D_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9E_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9F_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9G_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+BLANK3.9H_nan_nan		not applicable			adlib	None_None_None	None_None	None_adlib	None_None_adlib
+Mouse 123L_early_dark	Apoetm1Unc/J	123	early	dark	TRF	Apoetm1Unc/J_early_dark	early_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 123L_early_daylight	Apoetm1Unc/J	123	early	daylight	TRF	Apoetm1Unc/J_early_daylight	early_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 123L_late_dark	Apoetm1Unc/J	123	late	dark	TRF	Apoetm1Unc/J_late_dark	late_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 123L_late_daylight	Apoetm1Unc/J	123	late	daylight	TRF	Apoetm1Unc/J_late_daylight	late_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 123N_early_dark	Apoetm1Unc/J	123	early	dark	TRF	Apoetm1Unc/J_early_dark	early_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 123N_early_daylight	Apoetm1Unc/J	123	early	daylight	TRF	Apoetm1Unc/J_early_daylight	early_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 123N_late_dark	Apoetm1Unc/J	123	late	dark	TRF	Apoetm1Unc/J_late_dark	late_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 123N_late_daylight	Apoetm1Unc/J	123	late	daylight	TRF	Apoetm1Unc/J_late_daylight	late_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 123R_early_dark	Apoetm1Unc/J	123	early	dark	TRF	Apoetm1Unc/J_early_dark	early_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 123R_early_daylight	Apoetm1Unc/J	123	early	daylight	TRF	Apoetm1Unc/J_early_daylight	early_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 123R_late_dark	Apoetm1Unc/J	123	late	dark	TRF	Apoetm1Unc/J_late_dark	late_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 123R_late_daylight	Apoetm1Unc/J	123	late	daylight	TRF	Apoetm1Unc/J_late_daylight	late_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 124L_early_dark	Apoetm1Unc/J	124	early	dark	TRF	Apoetm1Unc/J_early_dark	early_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 124L_early_daylight	Apoetm1Unc/J	124	early	daylight	TRF	Apoetm1Unc/J_early_daylight	early_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 124L_late_dark	Apoetm1Unc/J	124	late	dark	TRF	Apoetm1Unc/J_late_dark	late_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 124L_late_daylight	Apoetm1Unc/J	124	late	daylight	TRF	Apoetm1Unc/J_late_daylight	late_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 124N_early_dark	Apoetm1Unc/J	124	early	dark	TRF	Apoetm1Unc/J_early_dark	early_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 124N_early_daylight	Apoetm1Unc/J	124	early	daylight	TRF	Apoetm1Unc/J_early_daylight	early_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 124N_late_dark	Apoetm1Unc/J	124	late	dark	TRF	Apoetm1Unc/J_late_dark	late_dark	dark_TRF	Apoetm1Unc/J_dark_TRF
+Mouse 124N_late_daylight	Apoetm1Unc/J	124	late	daylight	TRF	Apoetm1Unc/J_late_daylight	late_daylight	daylight_TRF	Apoetm1Unc/J_daylight_TRF
+Mouse 125B_early_dark	Apoetm1Unc/J	125	early	dark	adlib	Apoetm1Unc/J_early_dark	early_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 125B_early_daylight	Apoetm1Unc/J	125	early	daylight	adlib	Apoetm1Unc/J_early_daylight	early_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 125B_late_dark	Apoetm1Unc/J	125	late	dark	adlib	Apoetm1Unc/J_late_dark	late_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 125B_late_daylight	Apoetm1Unc/J	125	late	daylight	adlib	Apoetm1Unc/J_late_daylight	late_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 125L_early_dark	Apoetm1Unc/J	125	early	dark	adlib	Apoetm1Unc/J_early_dark	early_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 125L_early_daylight	Apoetm1Unc/J	125	early	daylight	adlib	Apoetm1Unc/J_early_daylight	early_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 125L_late_dark	Apoetm1Unc/J	125	late	dark	adlib	Apoetm1Unc/J_late_dark	late_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 125L_late_daylight	Apoetm1Unc/J	125	late	daylight	adlib	Apoetm1Unc/J_late_daylight	late_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 125R_early_dark	Apoetm1Unc/J	125	early	dark	adlib	Apoetm1Unc/J_early_dark	early_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 125R_early_daylight	Apoetm1Unc/J	125	early	daylight	adlib	Apoetm1Unc/J_early_daylight	early_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 125R_late_dark	Apoetm1Unc/J	125	late	dark	adlib	Apoetm1Unc/J_late_dark	late_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 125R_late_daylight	Apoetm1Unc/J	125	late	daylight	adlib	Apoetm1Unc/J_late_daylight	late_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 126L_early_dark	Apoetm1Unc/J	126	early	dark	adlib	Apoetm1Unc/J_early_dark	early_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 126L_early_daylight	Apoetm1Unc/J	126	early	daylight	adlib	Apoetm1Unc/J_early_daylight	early_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 126L_late_dark	Apoetm1Unc/J	126	late	dark	adlib	Apoetm1Unc/J_late_dark	late_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 126L_late_daylight	Apoetm1Unc/J	126	late	daylight	adlib	Apoetm1Unc/J_late_daylight	late_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 126N_early_dark	Apoetm1Unc/J	126	early	dark	adlib	Apoetm1Unc/J_early_dark	early_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 126N_early_daylight	Apoetm1Unc/J	126	early	daylight	adlib	Apoetm1Unc/J_early_daylight	early_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 126N_late_dark	Apoetm1Unc/J	126	late	dark	adlib	Apoetm1Unc/J_late_dark	late_dark	dark_adlib	Apoetm1Unc/J_dark_adlib
+Mouse 126N_late_daylight	Apoetm1Unc/J	126	late	daylight	adlib	Apoetm1Unc/J_late_daylight	late_daylight	daylight_adlib	Apoetm1Unc/J_daylight_adlib
+Mouse 130N_early_dark	Ldlrtm1Her/J	130	early	dark	TRF	Ldlrtm1Her/J_early_dark	early_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 130N_early_daylight	Ldlrtm1Her/J	130	early	daylight	TRF	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 130N_late_dark	Ldlrtm1Her/J	130	late	dark	TRF	Ldlrtm1Her/J_late_dark	late_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 130N_late_daylight	Ldlrtm1Her/J	130	late	daylight	TRF	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 130R_early_dark	Ldlrtm1Her/J	130	early	dark	TRF	Ldlrtm1Her/J_early_dark	early_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 130R_early_daylight	Ldlrtm1Her/J	130	early	daylight	TRF	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 130R_late_dark	Ldlrtm1Her/J	130	late	dark	TRF	Ldlrtm1Her/J_late_dark	late_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 130R_late_daylight	Ldlrtm1Her/J	130	late	daylight	TRF	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 131L_early_dark	Ldlrtm1Her/J	131	early	dark	TRF	Ldlrtm1Her/J_early_dark	early_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 131L_early_daylight	Ldlrtm1Her/J	131	early	daylight	TRF	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 131L_late_dark	Ldlrtm1Her/J	131	late	dark	TRF	Ldlrtm1Her/J_late_dark	late_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 131L_late_daylight	Ldlrtm1Her/J	131	late	daylight	TRF	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 131N_early_dark	Ldlrtm1Her/J	131	early	dark	TRF	Ldlrtm1Her/J_early_dark	early_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 131N_early_daylight	Ldlrtm1Her/J	131	early	daylight	TRF	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 131N_late_dark	Ldlrtm1Her/J	131	late	dark	TRF	Ldlrtm1Her/J_late_dark	late_dark	dark_TRF	Ldlrtm1Her/J_dark_TRF
+Mouse 131N_late_daylight	Ldlrtm1Her/J	131	late	daylight	TRF	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_TRF	Ldlrtm1Her/J_daylight_TRF
+Mouse 132L_early_dark	Ldlrtm1Her/J	132	early	dark	adlib	Ldlrtm1Her/J_early_dark	early_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 132L_early_daylight	Ldlrtm1Her/J	132	early	daylight	adlib	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 132L_late_dark	Ldlrtm1Her/J	132	late	dark	adlib	Ldlrtm1Her/J_late_dark	late_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 132L_late_daylight	Ldlrtm1Her/J	132	late	daylight	adlib	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 133L_early_dark	Ldlrtm1Her/J	133	early	dark	adlib	Ldlrtm1Her/J_early_dark	early_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 133L_early_daylight	Ldlrtm1Her/J	133	early	daylight	adlib	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 133L_late_dark	Ldlrtm1Her/J	133	late	dark	adlib	Ldlrtm1Her/J_late_dark	late_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 133L_late_daylight	Ldlrtm1Her/J	133	late	daylight	adlib	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 133N_early_dark	Ldlrtm1Her/J	133	early	dark	adlib	Ldlrtm1Her/J_early_dark	early_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 133N_early_daylight	Ldlrtm1Her/J	133	early	daylight	adlib	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 133N_late_dark	Ldlrtm1Her/J	133	late	dark	adlib	Ldlrtm1Her/J_late_dark	late_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 133N_late_daylight	Ldlrtm1Her/J	133	late	daylight	adlib	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 133R_early_dark	Ldlrtm1Her/J	133	early	dark	adlib	Ldlrtm1Her/J_early_dark	early_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 133R_early_daylight	Ldlrtm1Her/J	133	early	daylight	adlib	Ldlrtm1Her/J_early_daylight	early_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib
+Mouse 133R_late_dark	Ldlrtm1Her/J	133	late	dark	adlib	Ldlrtm1Her/J_late_dark	late_dark	dark_adlib	Ldlrtm1Her/J_dark_adlib
+Mouse 133R_late_daylight	Ldlrtm1Her/J	133	late	daylight	adlib	Ldlrtm1Her/J_late_daylight	late_daylight	daylight_adlib	Ldlrtm1Her/J_daylight_adlib

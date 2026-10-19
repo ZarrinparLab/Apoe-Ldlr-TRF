@@ -1,0 +1,109 @@
+#SampleID	genotype	cage_number	phase	feeding_type
+BLANK1.1A_nan		not applicable		adlib
+BLANK1.1B_nan		not applicable		adlib
+BLANK1.1C_nan		not applicable		adlib
+BLANK1.1D_nan		not applicable		adlib
+BLANK1.1E_nan		not applicable		adlib
+BLANK1.1F_nan		not applicable		adlib
+BLANK1.1G_nan		not applicable		adlib
+BLANK1.1H_nan		not applicable		adlib
+BLANK2.2A_nan		not applicable		adlib
+BLANK2.2B_nan		not applicable		adlib
+BLANK2.2C_nan		not applicable		adlib
+BLANK2.2D_nan		not applicable		adlib
+BLANK2.2E_nan		not applicable		adlib
+BLANK2.2F_nan		not applicable		adlib
+BLANK2.2G_nan		not applicable		adlib
+BLANK2.2H_nan		not applicable		adlib
+BLANK3.10A_nan		not applicable		adlib
+BLANK3.10B_nan		not applicable		adlib
+BLANK3.10C_nan		not applicable		adlib
+BLANK3.10D_nan		not applicable		adlib
+BLANK3.10E_nan		not applicable		adlib
+BLANK3.10F_nan		not applicable		adlib
+BLANK3.10G_nan		not applicable		adlib
+BLANK3.10H_nan		not applicable		adlib
+BLANK3.11A_nan		not applicable		adlib
+BLANK3.11B_nan		not applicable		adlib
+BLANK3.11C_nan		not applicable		adlib
+BLANK3.11D_nan		not applicable		adlib
+BLANK3.11E_nan		not applicable		adlib
+BLANK3.11F_nan		not applicable		adlib
+BLANK3.11G_nan		not applicable		adlib
+BLANK3.11H_nan		not applicable		adlib
+BLANK3.12A_nan		not applicable		adlib
+BLANK3.12B_nan		not applicable		adlib
+BLANK3.12C_nan		not applicable		adlib
+BLANK3.12D_nan		not applicable		adlib
+BLANK3.12E_nan		not applicable		adlib
+BLANK3.12F_nan		not applicable		adlib
+BLANK3.12G_nan		not applicable		adlib
+BLANK3.12H_nan		not applicable		adlib
+BLANK3.3A_nan		not applicable		adlib
+BLANK3.3B_nan		not applicable		adlib
+BLANK3.3C_nan		not applicable		adlib
+BLANK3.3D_nan		not applicable		adlib
+BLANK3.3E_nan		not applicable		adlib
+BLANK3.3F_nan		not applicable		adlib
+BLANK3.3G_nan		not applicable		adlib
+BLANK3.3H_nan		not applicable		adlib
+BLANK3.7A_nan		not applicable		adlib
+BLANK3.7B_nan		not applicable		adlib
+BLANK3.7C_nan		not applicable		adlib
+BLANK3.7D_nan		not applicable		adlib
+BLANK3.7E_nan		not applicable		adlib
+BLANK3.7F_nan		not applicable		adlib
+BLANK3.7G_nan		not applicable		adlib
+BLANK3.7H_nan		not applicable		adlib
+BLANK3.8A_nan		not applicable		adlib
+BLANK3.8B_nan		not applicable		adlib
+BLANK3.8C_nan		not applicable		adlib
+BLANK3.8D_nan		not applicable		adlib
+BLANK3.8E_nan		not applicable		adlib
+BLANK3.8F_nan		not applicable		adlib
+BLANK3.8G_nan		not applicable		adlib
+BLANK3.8H_nan		not applicable		adlib
+BLANK3.9A_nan		not applicable		adlib
+BLANK3.9B_nan		not applicable		adlib
+BLANK3.9C_nan		not applicable		adlib
+BLANK3.9D_nan		not applicable		adlib
+BLANK3.9E_nan		not applicable		adlib
+BLANK3.9F_nan		not applicable		adlib
+BLANK3.9G_nan		not applicable		adlib
+BLANK3.9H_nan		not applicable		adlib
+Mouse 123L_early	Apoetm1Unc/J	123	early	TRF
+Mouse 123L_late	Apoetm1Unc/J	123	late	TRF
+Mouse 123N_early	Apoetm1Unc/J	123	early	TRF
+Mouse 123N_late	Apoetm1Unc/J	123	late	TRF
+Mouse 123R_early	Apoetm1Unc/J	123	early	TRF
+Mouse 123R_late	Apoetm1Unc/J	123	late	TRF
+Mouse 124L_early	Apoetm1Unc/J	124	early	TRF
+Mouse 124L_late	Apoetm1Unc/J	124	late	TRF
+Mouse 124N_early	Apoetm1Unc/J	124	early	TRF
+Mouse 124N_late	Apoetm1Unc/J	124	late	TRF
+Mouse 125B_early	Apoetm1Unc/J	125	early	adlib
+Mouse 125B_late	Apoetm1Unc/J	125	late	adlib
+Mouse 125L_early	Apoetm1Unc/J	125	early	adlib
+Mouse 125L_late	Apoetm1Unc/J	125	late	adlib
+Mouse 125R_early	Apoetm1Unc/J	125	early	adlib
+Mouse 125R_late	Apoetm1Unc/J	125	late	adlib
+Mouse 126L_early	Apoetm1Unc/J	126	early	adlib
+Mouse 126L_late	Apoetm1Unc/J	126	late	adlib
+Mouse 126N_early	Apoetm1Unc/J	126	early	adlib
+Mouse 126N_late	Apoetm1Unc/J	126	late	adlib
+Mouse 130N_early	Ldlrtm1Her/J	130	early	TRF
+Mouse 130N_late	Ldlrtm1Her/J	130	late	TRF
+Mouse 130R_early	Ldlrtm1Her/J	130	early	TRF
+Mouse 130R_late	Ldlrtm1Her/J	130	late	TRF
+Mouse 131L_early	Ldlrtm1Her/J	131	early	TRF
+Mouse 131L_late	Ldlrtm1Her/J	131	late	TRF
+Mouse 131N_early	Ldlrtm1Her/J	131	early	TRF
+Mouse 131N_late	Ldlrtm1Her/J	131	late	TRF
+Mouse 132L_early	Ldlrtm1Her/J	132	early	adlib
+Mouse 132L_late	Ldlrtm1Her/J	132	late	adlib
+Mouse 133L_early	Ldlrtm1Her/J	133	early	adlib
+Mouse 133L_late	Ldlrtm1Her/J	133	late	adlib
+Mouse 133N_early	Ldlrtm1Her/J	133	early	adlib
+Mouse 133N_late	Ldlrtm1Her/J	133	late	adlib
+Mouse 133R_early	Ldlrtm1Her/J	133	early	adlib
+Mouse 133R_late	Ldlrtm1Her/J	133	late	adlib

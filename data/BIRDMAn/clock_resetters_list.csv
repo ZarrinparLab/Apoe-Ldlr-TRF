@@ -1,0 +1,1 @@
+Feature_ID,Baseline,C(feeding_type)[T.adlib],C(genotype)[T.Ldlrtm1Her/J],C(genotype)[T.Ldlrtm1Her/J]:C(feeding_type)[T.adlib],C(genotype)[T.Ldlrtm1Her/J]:C(phase)[T.late],C(genotype)[T.Ldlrtm1Her/J]:C(phase)[T.late]:C(feeding_type)[T.adlib],C(phase)[T.late],C(phase)[T.late]:C(feeding_type)[T.adlib]

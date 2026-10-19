@@ -1,0 +1,17 @@
+﻿Animal,Group,Mouse,Genotype
+1,Ldlr_TRF,130N,LdlrKO
+2,ApoE_adlib,125L,ApoeKO
+3,ApoE_adlib,125R,ApoeKO
+4,Ldlr_TRF,130R,LdlrKO
+5,Ldlr_TRF,131N,LdlrKO
+6,ApoE_adlib,126N,ApoeKO
+7,Ldlr_TRF,131L,LdlrKO
+8,ApoE_TRF,123N,ApoeKO
+9,ApoE_TRF,124L,ApoeKO
+10,ApoE_adlib,126L,ApoeKO
+11,Ldlr_adlib,132L,LdlrKO
+12,ApoE_TRF,124N,ApoeKO
+13,ApoE_TRF,123L,ApoeKO
+14,Ldlr_adlib,133N,LdlrKO
+15,Ldlr_adlib,133L,LdlrKO
+16,Ldlr_adlib,133R,LdlrKO

@@ -1,0 +1,13 @@
+﻿allinfo,counts,totals,cycling,percent
+apoe_adlib_early,183,565345,adlib cycling reads,0.03237
+apoe_TRF_early,939,582740,trf cycling reads,0.161135
+ldlr_adlib_early,49691,476445,adlib cycling reads,10.429535
+ldlr_TRF_early,16460,526520,trf cycling reads,3.126187
+ldlr_adlib_late,11622,381426,adlib cycling reads,3.046987
+ldlr_TRF_late,22154,353354,trf cycling reads,6.269633
+apoe_adlib_early,1,387,adlib cycling otu,0.258398
+apoe_TRF_early,4,369,trf cycling otu,1.084011
+ldlr_adlib_early,3,331,adlib cycling otu,0.906344
+ldlr_TRF_early,8,346,trf cycling otu,2.312139
+ldlr_adlib_late,2,360,adlib cycling otu,0.555556
+ldlr_TRF_late,15,324,trf cycling otu,4.62963
